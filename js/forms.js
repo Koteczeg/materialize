@@ -278,8 +278,6 @@
     /**************************
       Auto complete plugin    *
      *************************/
-     /*  general fixes       */
-     /*  Pawe³ Duszak        */
     $.fn.autocomplete = function (options) {
         // Defaults
         var defaults = {
